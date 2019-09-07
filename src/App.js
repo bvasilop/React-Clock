@@ -29,10 +29,8 @@ class App extends React.Component {
       <h1> Hello, Seattle</h1>
       <h2>it is currently {time}</h2>
       </div>
-
     );
   }
 }
-
 
 export default App;
