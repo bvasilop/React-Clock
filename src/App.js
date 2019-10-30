@@ -27,7 +27,7 @@ class App extends React.Component {
     return (
       <div className="App-clock">
       <h1> Hello, Seattle</h1>
-      <h2>it is currently {time}</h2>
+      <h2>It is currently {time}</h2>
       </div>
     );
   }
